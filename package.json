@@ -26,8 +26,8 @@
     "google": "link:next/font/google",
     "next": "^13.4.9",
     "nookies": "^2.5.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "18.3.0",
+    "react-dom": "18.3.0",
     "react-toastify": "^9.1.3"
   },
   "devDependencies": {
